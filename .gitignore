@@ -1,0 +1,33 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Build output
+bin/
+obj/
+
+# Rider / Visual Studio / IDE dosyaları
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp
+~$*
+
